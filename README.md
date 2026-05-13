@@ -4,9 +4,9 @@
 💻 Aspiring Python Full Stack Developer  
 
 ## 🔧 Skills
-- Python, Django
-- HTML, CSS, JavaScript
-- React (Basics)
+- Python, Django,Rest API
+- HTML, CSS, JavaScript,TypeScript
+- React,MySQL
 
 ## 🚀 Projects
 - Rental Management System (Django)
